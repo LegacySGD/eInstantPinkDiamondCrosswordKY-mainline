@@ -1,0 +1,5 @@
+<ClientConfig>    
+    <GameClient name="Pink Diamond Crossword KY" clientCode="mobile" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PinkDiamondCrosswordKY" enableFreeSpin="Y" clientversion="1.0" gameId="300-2230-0"/>
+	<GameClient name="Pink Diamond Crossword KY" clientCode="tablet" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PinkDiamondCrosswordKY" enableFreeSpin="Y" clientversion="1.0" gameId="300-2230-0"/>
+	<GameClient name="Pink Diamond Crossword KY" clientCode="desktop" technology="HTML" height="768" width="1024" meterheight="0" meterwidth="10" gameFolder="PinkDiamondCrosswordKY" enableFreeSpin="Y" clientversion="1.0" gameId="300-2230-0"/>
+</ClientConfig>
